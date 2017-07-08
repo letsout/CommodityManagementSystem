@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/com/lh/entity/Goods.java=GBK
+encoding//src/com/lh/entity/ServerUser.java=GBK
+encoding//src/com/lh/server/Server.java=GBK
+encoding//src/com/lh/serverBiz/ServerBiz.java=GBK
+encoding//src/com/lh/util/Config.java=GBK
+encoding//src/com/lh/util/FlagType.java=GBK
+encoding//src/com/lh/util/StringUtil.java=GBK
+encoding//src/com/lh/util/SysDTO.java=GBK
